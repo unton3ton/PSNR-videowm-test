@@ -1,0 +1,4 @@
+*** Video Steganography / Watermarking Demo Tool ***
+(C) David Griberman 2014-2022
+
+PSNR 38,31

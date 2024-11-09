@@ -1,0 +1,12 @@
+*** Video Steganography / Watermarking Demo Tool ***
+(C) David Griberman 2014-2022
+
+PSNR 38,31
+*** Video Steganography / Watermarking Demo Tool ***
+(C) David Griberman 2014-2022
+
+PSNR 40,19
+*** Video Steganography / Watermarking Demo Tool ***
+(C) David Griberman 2014-2022
+
+PSNR 38,29
